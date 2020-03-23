@@ -1,0 +1,4 @@
+#Mon Jul 01 23:03:42 JST 2019
+base.0=/Users/yutaakazawa/clone_flutter_cupertino/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
